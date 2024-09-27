@@ -36,4 +36,4 @@ Feel free to explore my repositories and projects. If you have any questions or 
 ⚡ *“The best way to predict the future is to invent it.”* – Alan Kay
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/FredericTischler)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-tischler-64b588305/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-tischler-64b588305/))
